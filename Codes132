@@ -1,1 +1,67 @@
+### Keybase proof
 
+I hereby claim:
+
+  * I am mridgely on github.
+  * I am makersmarket (https://keybase.io/makersmarket) on keybase.
+  * I have a public key ASCWP0OJsoUj-XR423dbunG-LRvVwQ8K5FQw182pirmWngo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120963f4389b28523f97478db775bba71be2d1bd5c10f0ae45430d7cda98ab9969e0a",
+      "host": "keybase.io",
+      "kid": "0120963f4389b28523f97478db775bba71be2d1bd5c10f0ae45430d7cda98ab9969e0a",
+      "uid": "caed5e72655010fa8f17effdeb158c19",
+      "username": "makersmarket"
+    },
+    "merkle_root": {
+      "ctime": 1568125528,
+      "hash": "8b618d97778be8e54db99857bea591cf5c2300215b4e9384b24367d751176968268aee8b0e9e57003b3876bbcec59193e9bd1cb0da98ad27e8906b0f50fff917",
+      "hash_meta": "b47f75bb1dbe9398da3d4823e70d6c8096e1f81bf79831a92f60d1c4ad3c1582",
+      "seqno": 6425643
+    },
+    "service": {
+      "entropy": "ZiRBPs2lVpuZCNeOCwDwqVcq",
+      "name": "github",
+      "username": "mridgely"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568125588,
+  "expire_in": 504576000,
+  "prev": "298cb545a0ae5093c5fd3ef46268c274535f4b7bc74d4d764c1c8de6e3b80923",
+  "seqno": 17,
+  "tag": "signature"
+}
+```
+
+with the key [ASCWP0OJsoUj-XR423dbunG-LRvVwQ8K5FQw182pirmWngo](https://keybase.io/makersmarket), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglj9DibKFI/l0eNt3W7pxvi0b1cEPCuRUMNfNqYq5lp4Kp3BheWxvYWTESpcCEcQgKYy1RaCuUJPF/T70YmjCdFNfS3vHTU12TByN5uO4CSPEIP+8pv4eoeszm4oDffWRWb3sH4fYHY7k9HeBiQq2RZ57AgHCo3NpZ8RATJ7QLoYPVpZrxPctwxRE70wwgbKjFVsQJk/o8szHZq8W7ft+m+wW8jHToGGWW6WNsCaBzwdv7QQ08Had+0whAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN+ckEmUK1Hytcapy74/aiEd8oOm1VNbHc2tY69MDX5co3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/makersmarket
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id makersmarket
+```
